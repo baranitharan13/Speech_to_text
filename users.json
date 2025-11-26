@@ -1,0 +1,6 @@
+{
+  "admin@example.com": {
+    "username": "admin@example.com",
+    "password": "pbkdf2:sha256:600000$0Tbqv6M6vLuQ7XxP$7bc0d9ae1a5aa946ca27eb50ebecdf3ff82f31e25bc8aa1e3d9e5a1e4f94ccae"
+  }
+}
